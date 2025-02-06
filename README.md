@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi there 👋
+I'm Sara, currently a computer science student @Ulaval in Quebec, Canada 📍
 <!--
 **saraeambrosoli/saraeambrosoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
