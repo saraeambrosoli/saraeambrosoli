@@ -1,5 +1,7 @@
 Hi there 👋 <br />
-I'm Sara, currently a computer science student @Ulaval in Quebec, Canada 📍
+I'm Sara, currently a computer science student @Ulaval in Quebec, Canada 📍<br> <br>
+📚I'm currently deepening my C++ knowledge and skills <br>
+Open for internships opportunities
 <!--
 **saraeambrosoli/saraeambrosoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
